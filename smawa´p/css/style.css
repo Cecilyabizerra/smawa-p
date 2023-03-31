@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    background-image: url(../img/WhatsApp\ Image\ 2023-03-30\ at\ 18.34.40.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.nav-logo{
+    width: 130px;
+    margin-top: 10px;
+}
+
+.menu-item{
+    display: flex;
+    flex-direction: row;
+    margin-left: 900px;
+    margin-top: -55px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tema{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.titulo-principal{
+    margin-top: 45px;
+    font-size: 40px;
+}
+
+.subtítulo{
+    margin-top: -24px;
+    color: #03435f;
+}
+
+.conteúdo1{
+    font-size: 30px;
+}
+
+.conhecamais{
+    height: 35px;
+    background-color: #03435f;
+    border-radius: 5px;
+    border: none;
+}
+
+.texto-botao{
+    color: #fff;
+    margin-top: 9px;
+    
+}
+
+.corpo{
+    background-color: #03435f;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    margin-top: 600px;
+   position:sticky;
+}
+
+.conteudo-problema{
+    display: flex;
+    flex-direction: column;
+    margin-left: 600px;
+}
+
+.img-problemas{
+    margin-left: 85px;
+}
+.img1-problema{
+    width: 355px;
+    height: 250px;
+    margin-top: 35px;
+}
+
+.img2-problema{
+    width: 355px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+  
+}
+
+.corpo2{
+    background-color: #5f5e5e;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    margin-top: 1px;
+    position:sticky;
+}
+
+.conteudo-solucao{
+    display: flex;
+    flex-direction: column;
+    margin-left: 600px;
+    
+}
+.img1-solucao{
+    margin-left: 600px;
+    justify-content: center;
+    width: 355px;
+    height: 250px;
+}
+
+.Vantagens{
+    background: #03435f;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    margin-top: -29px;
+    position:sticky;
+}
+.Titulo-Vantagens{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+.todos{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.grupo1{
+    margin-left: auto;
+    margin-right: auto; 
+ 
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.grupo2{
+    margin-left: auto;
+    margin-right: auto; 
+    display: flex;
+    flex-direction: row;
+}
+
+.img1{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-left: auto;
+}
+.dois{
+   flex-direction: row;
+   margin-left: 20px;
+
+}
+.img2{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.tres{
+    margin-left: 55px;
+}
+.img3{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.img4{
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+
+.img5{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+}
+.footer{
+    text-align: center;
+    background: #5f5e5e;
+    color: #fff;
+    height: 70px;
+    position: sticky;
+   
+}
